@@ -1,0 +1,30 @@
+# Dependency for parsing documents
+docling
+pymupdf
+ollama
+easyocr
+onnxruntime-gpu
+
+# DB and embedding dependencies
+qdrant-client
+tqdm
+openai
+ollama
+tiktoken
+transformers
+fastembed
+sentence-transformers
+
+# AWS dependencies
+boto3
+
+# Azure Dependencies
+azure-storage-blob
+azure-cosmos
+azure-mgmt-compute
+azure-mgmt-network
+azure-identity
+
+# Extra python dependencies
+python-dateutil
+python-dotenv
