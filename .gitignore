@@ -1,6 +1,6 @@
 __pycache__
 .vscode
-files
+files/*
 myenv
 raw_data
 test_files
