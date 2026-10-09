@@ -6,3 +6,5 @@ raw_data
 test_files
 .env*
 *.log
+tokenizers/
+chunker/adaptive_chunker/tokenizers/
